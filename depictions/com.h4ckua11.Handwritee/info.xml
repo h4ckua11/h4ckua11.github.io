@@ -7,6 +7,8 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+	</dependencies>
 	<shortDescription>Document Scanner for Handwritten Notes</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
