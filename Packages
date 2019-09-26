@@ -1,12 +1,16 @@
 Package: com.h4ckua11.Handwritee
-Name: Handwritee
-Version: 1.0.0
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Eine App die noch nichts kann...
-Maintainer: h4ckua11 <h4ckua11@gmx.net>
-Author: h4ckua11 <h4ckua11@gmx.net>
-Section: Apps
-Filename: debs/com.h4ckua11.Handwritee.deb
-Size: 85504
-MD5sum: 74e53404434c62e29294a876a62a937c
-Depiction: https://h4ckua11.github.io/depictions/?p=com.h4ckua11.Handwritee
+Maintainer: h4ckua11
+Filename: ./debs/com.h4ckua11.Handwritee.deb
+Size: 43032388
+MD5sum: fa5e9cbc7092b8f6ab26890248130b6e
+SHA1: eb11815d1ba66d162fcaa31eb190f611b149e76b
+SHA256: ab60c110799410d9a2276641c6b52bc5422ce439be7e72039be332a126b4ac4c
+Section: Application
+Description: Just an app for testing purposes
+Depiction: depictions/?p=com.h4ckua11.Handwritee
+Author: h4ckua11
+File: ///Library/PreferenceBundles/Handwritee.bundle/AppIcon60x60@2x.png
+Name: Handwritee
+
