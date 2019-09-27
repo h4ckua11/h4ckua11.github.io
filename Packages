@@ -3,10 +3,10 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: h4ckua11
 Filename: ./debs/com.h4ckua11.Handwritee.deb
-Size: 43032388
-MD5sum: fa5e9cbc7092b8f6ab26890248130b6e
-SHA1: eb11815d1ba66d162fcaa31eb190f611b149e76b
-SHA256: ab60c110799410d9a2276641c6b52bc5422ce439be7e72039be332a126b4ac4c
+Size: 7170748
+MD5sum: acf1583661bde99dfdbecb3cde507ea3
+SHA1: 0c41757c6bb270cbc74a517e263eae96d3d37d1d
+SHA256: 3ea9b42518de3a0e380272c271aa902119ec1485b72e8f1ca4c5828cd796b645
 Section: Applications
 Description: Document Scanner App
 Depiction: https://h4ckua11.github.io/depictions/?p=com.h4ckua11.Handwritee
