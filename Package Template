@@ -1,0 +1,14 @@
+Package: com.h4ckua11.Netflix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: h4ckua11
+Filename: ./debs/com.h4ckua11.Netflix.deb
+Size: 41659312
+MD5sum: 43a5fd38708f1aedfd229ae0a8c4fbd8
+SHA1: 055fd1dc6b5b7ed2e64220a902c674ab170840c7
+SHA256: 7c853d8ff29aeb44191722f352f0cd4ff1639b0bf3344fa386e07a1b9f61ff54
+Section: Applications
+Description: A Netflix like app to watch movies for free
+Depiction: https://h4ckua11.github.io/depictions/?p=com.h4ckua11.Netflix
+Author: h4ckua11
+Name: Netflix

@@ -1,0 +1,26 @@
+<package>
+	<id>com.luma-touch.LumaFusion</id>
+	<name>LumaFusion</name>
+	<version>2.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Luma Fusion 2.0.4 Full</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<links>
+	</links>
+</package>
